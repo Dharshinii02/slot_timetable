@@ -35,13 +35,13 @@ Execute the program using runserver command.
             <img src="C:\Users\admin\webb\webex\slot_timetable\static\logo.png" width="500">
         </center>
         <table border="2" cellpadding="10" align="center" bgcolor="pink">
-            <caption><h2>Slot Time-Table</h2></caption>
-            <tr><th>Day/Time</th><th>Monday</th><th>Tuesday</th><th>Wednesday</th></tr>
-            <tr><th>8-10</th><td bgcolor="pink">Web</td><td>Computer Network</td><td>DBMS</td></tr>
-            <tr><th>10-12</th><td>Web</td><td>Computer Network</td><td>DBMS</td></tr>
+            <caption><h2>Slot Time-Table - 212224240036</h2></caption>
+            <tr><th>Day/Time</th><th>Monday</th><th>Tuesday</th><th>Wednesday</th><th>Thursday</th><th>Friday</th><th>Saturday</th></tr>
+            <tr><th>8-10</th><td bgcolor="pink">Web</td><td>Computer Network</td><td>DBMS</td><td>OS</td><td>Compiler Design</td><td>Probability</td></tr>
+            <tr><th>10-12</th><td>Web</td><td>Computer Network</td><td>DBMS</td><td>OS</td><td>Compiler Design</td><td>Probability</td></tr>
             <tr align="center"><th>12-1</th><td colspan="4">Lunch</td></tr>
-            <tr><th>1-3</th><td>Web</td><td>Computer Network</td><td>DBMS</td></tr>
-            <tr><th>3-5</th><td>Web</td><td>Computer Network</td><td>DBMS</td></tr>
+            <tr><th>1-3</th><td>Web</td><td>Computer Network</td><td>DBMS</td><td>OS</td><td>Compiler Design</td><td>Probability</td></tr>
+            <tr><th>3-5</th><td>Web</td><td>Computer Network</td><td>DBMS</td><td>OS</td><td>Compiler Design</td><td>Probability</td></tr>
         </table>
     </body>
 </html>
